@@ -1,0 +1,29 @@
+body {
+    background-color: aquamarine;
+}
+
+#card {
+height: 500px;
+width: 400px;
+background-color: bisque;
+border-radius: 100px;
+padding: 40px;
+}
+
+h1 {
+    color: azure;
+}
+
+img {
+height: 150px;
+width: 150px;
+background-color: aliceblue;
+object-fit: cover;
+}
+
+
+
+
+
+
+
